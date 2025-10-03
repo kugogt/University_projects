@@ -1,4 +1,4 @@
-# Foundations of Deep Learning – Super-Resolution and Restoration of images (Image-to-Image task) with U-Net
+# 🧠 Foundations of Deep Learning – Super-Resolution and Restoration of images (Image-to-Image task) with U-Net
 
 This project was developed as part of the *Foundations of Deep Learning* course, and focuses on **super-resolution and restoration of images**. 
 The goal is to train a deep learning model that can transform low-resolution, degraded images into high-resolution, clean counterparts.
