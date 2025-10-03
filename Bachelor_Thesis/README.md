@@ -18,5 +18,5 @@ Finally, the thesis provides a **taxonomy** of all models based on Abductive Lea
 ### Abstract
 Abduction is a form of reasoning that involves generating the most plausible explanation for a set of observations, and it plays a critical role in various fields, including scientific discovery, diagnostic systems, and natural language understanding. This thesis aims to explore the integration of abductive reasoning within Artificial Intelligence (AI), particularly through Abductive Learning (ABL). Historically, machine learning (ML) and logical reasoning have evolved separately due to their differing representations: ’feature-value’ in ML and ’first-order logic’ rules in reasoning. The ABL framework aims to integrate ML and logical reasoning in a balanced manner, distinguishing it from previous models. This thesis conducts a comprehensive taxonomy by examining state-of-the-art implementations of ABL and other related models that utilize abduction.
 
-### 📧 Contact
+### Contact
 If you’d like to read the full thesis or discuss it, feel free to contact me.
