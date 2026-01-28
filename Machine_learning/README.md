@@ -13,6 +13,11 @@ The entire workflow was developed in **KNIME**, and the repository includes **im
 
 ---
 
+# Authors
+- Marco Rosato
+- Cristina Papi
+- Rowyda Askalani
+
 ### Workflow Overview
 
 The pipeline is structured into several stages, each handling a key aspect of the machine learning process:
