@@ -3,6 +3,11 @@ This university project integrates two distinct datasets to create a comprehensi
 
 The project combines recipe data from [TheMealDB API](https://www.themealdb.com/) with allergen data from the "[Food: Allergens and Allergies](https://www.kaggle.com/datasets/boltcutters/food-allergens-and-allergies)" dataset from Kaggle.
 
+# Authors
+- Marco Rosato
+- Cristina Papi
+- Alessandra d'Apolito
+
 ## Core Challenge & Solution: A Dual-Join Approach
 A key challenge in this project was accurately mapping recipe ingredients to known allergens, as direct text matching is often insufficient. For instance, an ingredient like "mozzarella" would not be lexically matched to a "Milk" allergy if the allergen dataset only contains the word "cheese."
 
