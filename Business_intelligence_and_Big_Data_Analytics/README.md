@@ -4,6 +4,11 @@ This project aims to develop a chatbot that leverages the syllabus of the Data S
 
 The conversational interface is powered by the **Qwen3-4B-Instruct** model, integrated with a MongoDB database containing structured course information.
 
+# Authors
+- Marco Rosato
+- Cristina Papi
+- Rowyda Askalani
+
 ## Core Challenges & Solutions: Hybrid Retrieval & Context
 A primary challenge in querying academic syllabi is balancing the need for semantic understanding (concepts) with exact keyword matching (course codes), as well as handling multi-turn conversations and complex course structures.
 
